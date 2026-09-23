@@ -1,0 +1,6 @@
+{
+  "name": "Brandon Lawson | Domestic Electrical Services & EV Charging",
+  "description": "Professional EV charging station installation and domestic electrical services in Lisburn, Northern Ireland. Rewiring, fuse board upgrades, fault finding, and emergency repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
