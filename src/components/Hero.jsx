@@ -40,7 +40,7 @@ export default function Hero() {
           {/* Headline H1 */}
           <h1
             className="text-white text-3xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.12] mb-6 text-balance"
-            style={{ fontFamily: 'var(--font-heading)' }}
+            style={{ fontFamily: 'var(--font-heading)', color: '#ffffff' }}
           >
             {business.hero.headline}
           </h1>

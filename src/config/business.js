@@ -11,6 +11,10 @@ import heroImage from '../assets/images/hero_ev_domestic_charger_1790147926798.j
 import evChargingImage from '../assets/images/service_ev_charging_1790147946157.jpg';
 import fuseboardImage from '../assets/images/service_fuseboard_upgrade_1790147963262.jpg';
 import lightingImage from '../assets/images/service_domestic_lighting_1790147980569.jpg';
+import emergencyRepairsImage from '../assets/images/service_emergency_repairs_1790148412818.jpg';
+import rewiringImage from '../assets/images/service_rewiring_1790148428701.jpg';
+import testingInspectionImage from '../assets/images/service_testing_inspection_1790148445294.jpg';
+import socketsSwitchesImage from '../assets/images/service_sockets_switches_1790148461411.jpg';
 
 export const business = {
   // Identity & Core Information
@@ -109,7 +113,7 @@ export const business = {
       id: "emergency-repairs",
       title: "Emergency Electrical Repairs",
       description: "Prompt troubleshooting and repairs for power outages, tripped circuits, and urgent domestic electrical faults.",
-      image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1600&q=80",
+      image: emergencyRepairsImage,
       alt: "Electrician carrying out diagnostic testing",
       featured: false,
     },
@@ -117,7 +121,7 @@ export const business = {
       id: "fault-finding",
       title: "Electrical Fault Finding",
       description: "Thorough diagnostic testing to pinpoint hidden wiring faults, nuisance tripping, and intermittent electrical issues.",
-      image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1600&q=80",
+      image: testingInspectionImage,
       alt: "Electrical diagnostic equipment and testing",
       featured: false,
     },
@@ -133,7 +137,7 @@ export const business = {
       id: "rewiring",
       title: "Rewiring Services",
       description: "Full and partial domestic rewires for property renovations, aging installations, or home extensions.",
-      image: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1600&q=80",
+      image: rewiringImage,
       alt: "Neat domestic wiring and cable routing",
       featured: false,
     },
@@ -149,7 +153,7 @@ export const business = {
       id: "sockets-switches",
       title: "Socket & Switch Installation",
       description: "Adding new power points, USB-integrated sockets, cooker connections, and updating switch faceplates.",
-      image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1600&q=80",
+      image: socketsSwitchesImage,
       alt: "Modern switches and sockets installation",
       featured: false,
     },
@@ -157,7 +161,7 @@ export const business = {
       id: "testing-inspection",
       title: "Electrical Testing & Inspection",
       description: "Thorough electrical condition checks, safety reports, and verification for landlords and homeowners.",
-      image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1600&q=80",
+      image: testingInspectionImage,
       alt: "Electrical testing meter and inspection checklist",
       featured: false,
     },
@@ -165,7 +169,7 @@ export const business = {
       id: "smoke-alarms",
       title: "Smoke Alarm Installation",
       description: "Mains-powered, interconnected smoke, heat, and carbon monoxide alarm installations complying with safety regulations.",
-      image: "https://images.unsplash.com/photo-1558441719-8b4e28652d87?auto=format&fit=crop&w=1600&q=80",
+      image: emergencyRepairsImage,
       alt: "Interlinked domestic smoke alarm safety system",
       featured: false,
     }
