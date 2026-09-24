@@ -237,9 +237,7 @@ export const business = {
     heading: "Speak with Brandon about your electrical project",
     intro: "Whether you need a dedicated EV charger, an urgent repair, or advice on upgrading your home's wiring, get in touch today.",
     openingHours: [
-      { days: "Monday – Friday", hours: "08:00 – 18:00" },
-      { days: "Saturday", hours: "09:00 – 16:00" },
-      { days: "Sunday", hours: "Emergency callouts only" }
+      { days: "Monday – Sunday", hours: "07:00 AM – 10:30 PM" }
     ],
     formNotice: "Messages sent through this form receive a response within 24 business hours.",
   },
